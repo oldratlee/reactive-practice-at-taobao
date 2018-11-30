@@ -1,4 +1,4 @@
-# Flow Arch（流式架构） / Reactive Programming(RP/反应式编程) Practice
+# `Flow Arch`(流式架构)/`Reactive Programming`(`RP`/反应式编程) Practice
 
 <img src="asserts/LaLaLoveOnMyMind-AnnWinsborn.jpg" align="right" />
 
@@ -80,6 +80,8 @@
 - [《Learning RxJava: Reactive Programming with Java and ReactiveX》](https://book.douban.com/subject/27094562/) 英文版 2017年6月出版
     - `RxJava 2`，循序渐进地介绍了使用和整体思路，推荐！
     - 第一章 **_Thinking Reactively_**，讲了反应式设计和编程上的世界观和理念，推荐赶紧看看先～ 😘
+- [《Reactive Programming in Kotlin: Design and build non-blocking, asynchronous Kotlin applications with RXKotlin, Reactor-Kotlin, Android, and Spring》](https://book.douban.com/subject/27094562/) 英文版 2017年12月出版
+    - 也相当不错。用的是`Kotlin`语言。
 - [《Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications》](https://book.douban.com/subject/26894199/) 英文版 2016年10月出版
     - 讲的是`RxJava 1`，思路是无区别的，也可以看看。
 
@@ -159,14 +161,14 @@
 # 相关资料
 
 - 分享
-    - [QCon2018北京分享：Reactive架构升级实践——淘宝全站业务的全异步流式架构升级 @ 2018-4-21](https://2018.qconbeijing.com/presentation/462)
+    - [QCon2018北京 分享：Reactive架构升级实践——淘宝全站业务的全异步流式架构升级 @ 2018-4-21](https://2018.qconbeijing.com/presentation/462)
         - [PPT的`PDF`文件](QCon北京2018-Reactive架构升级实践-李鼎-20180421.pdf)
-    - [2018携程技术峰会：Reactive架构升级实践——淘宝全站业务的全异步流式架构升级 @ 2018-11-23](https://techsummit.ctrip.com/)
+    - [2018携程技术峰会 分享：Reactive架构升级实践——淘宝全站业务的全异步流式架构升级 @ 2018-11-23](https://techsummit.ctrip.com/)
         - 进一步包含2018双11的进展
         - [PPT的`PDF`文件](2018携程技术峰会-淘宝应用架构升级-20181123.pdf)
 - Reactive Programming
     - [Reactive Programming with JDK 9 Flow API - oracle.com](https://community.oracle.com/docs/DOC-1006738)
-    - [Your Mouse is a Database](https://queue.acm.org/detail.cfm?id=2169076)
+    - [Your Mouse is a Database - acm.org](https://queue.acm.org/detail.cfm?id=2169076)
     - https://github.com/lucamezzalira/awesome-reactive-programming
 - Rx
     - https://github.com/eleventigers/awesome-rxjava
