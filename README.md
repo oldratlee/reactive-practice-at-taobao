@@ -158,8 +158,12 @@
 
 # 相关资料
 
-- [QCon2018北京分享：Reactive架构升级实践——淘宝全站业务的全异步流式架构升级](https://2018.qconbeijing.com/presentation/462)
-    - [PPT的`PDF`文件](QCon北京2018-Reactive架构升级实践-李鼎.pdf)
+- 分享
+    - [QCon2018北京分享：Reactive架构升级实践——淘宝全站业务的全异步流式架构升级 @ 2018-4-21](https://2018.qconbeijing.com/presentation/462)
+        - [PPT的`PDF`文件](QCon北京2018-Reactive架构升级实践-李鼎-20180421.pdf)
+    - [2018携程技术峰会：Reactive架构升级实践——淘宝全站业务的全异步流式架构升级 @ 2018-11-23](https://techsummit.ctrip.com/)
+        - 进一步包含2018双11的进展
+        - [PPT的`PDF`文件](2018携程技术峰会-淘宝应用架构升级-20181123.pdf)
 - Reactive Programming
     - [Reactive Programming with JDK 9 Flow API - oracle.com](https://community.oracle.com/docs/DOC-1006738)
     - [Your Mouse is a Database](https://queue.acm.org/detail.cfm?id=2169076)
