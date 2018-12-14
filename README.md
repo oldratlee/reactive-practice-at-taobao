@@ -1,6 +1,6 @@
 # `Flow Arch`(流式架构)/`Reactive Programming`(`RP`/反应式编程) Practice
 
-<img src="asserts/LaLaLoveOnMyMind-AnnWinsborn.jpg" align="right" />
+<img src="asserts/LaLaLoveOnMyMind-AnnWinsborn.jpg" align="right" width="30%" />
 
 > One way ticket and of life to live, pockets full of sunshine, lots of love to give. -- [La La Love On My Mind, Ann Winsborn](http://www.xiami.com/song/mQ37ro8c0de)  
 > 体验生命的单程票，装满阳光口袋可以给你许许多多的爱。 —— [La La Love On My Mind, Ann Winsborn](http://www.xiami.com/song/mQ37ro8c0de)
@@ -100,7 +100,7 @@
 
 # 有哪些相关的类/库
 
-<img src="asserts/Java-8-Streams.png" height="200" align="right" />
+<img src="asserts/Java-8-Streams.png" align="right" width="30%" />
 
 这里列的是比较广泛的相关。使用方式和思考方式是互通的，大家去学习和理解。
 
@@ -113,7 +113,7 @@
 
 ## 2. `ReactiveX`(`Rx`)/`RxJava`
 
-<img src="asserts/rx.png" height="200" align="right" />
+<img src="asserts/rx.png" align="right" width="25%" />
 
 `ReactiveX`（`Rx`）是 `Reactive eXtension`（`Reactive`扩展）的缩写。
 
@@ -154,7 +154,7 @@
 
 # Reactive Streams介绍
 
-![Reactive Stream的核心概念及其关系](asserts/rs-class-diagram.png)[.](asserts/reactive-stream-n-flow-design.asta)
+![Reactive Stream的核心概念及其关系](asserts/rs-class-diagram.png)[.](asserts/reactive-stream-n-flow-design.asta)
 
 ![Reactive Stream的时序图](asserts/rs-sequence-diagram.png)[.](asserts/reactive-stream-n-flow-design.asta)
 
