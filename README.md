@@ -163,9 +163,15 @@
 - 分享
     - [QCon2018北京 分享：Reactive架构升级实践——淘宝全站业务的全异步流式架构升级 @ 2018-4-21](https://2018.qconbeijing.com/presentation/462)
         - [PPT的`PDF`文件](QCon北京2018-Reactive架构升级实践-李鼎-20180421.pdf)
-    - [2018携程技术峰会 分享：Reactive架构升级实践——淘宝全站业务的全异步流式架构升级 @ 2018-11-23](https://techsummit.ctrip.com/)
+    - [2018携程技术峰会 分享：Reactive架构升级实践——淘宝全站业务的全异步流式架构升级 @ 2018-11-23](https://techsummit.ctrip.com/2018/index.html)
         - 进一步包含2018双11的进展
         - [PPT的`PDF`文件](2018携程技术峰会-淘宝应用架构升级-20181123.pdf)
+    - [2019 TOP100全球软件案例研究峰会 分享：面向流量的自适应高可用架构 —— 淘宝应用架构升级实践 @ 2019-11-16](https://www.top100summit.com/detail?id=14331)
+        - 包含了在`React to Load`即『面向流量/负载』的高可用
+        - 分享过去一年多的思考、实现与实践落地
+        - 希望大家和业界能让更多关注面向流量的高可用
+        - 更多正面思考与解决这只屋子里的大象：流量不确定性带来的稳定性问题。
+        - [PPT的`PDF`文件](面向流量的自适应高可用架构-淘宝应用架构升级实践-李鼎-20191116.pdf)
 - Reactive Programming
     - [Reactive Programming with JDK 9 Flow API - oracle.com](https://community.oracle.com/docs/DOC-1006738)
     - [Your Mouse is a Database - acm.org](https://queue.acm.org/detail.cfm?id=2169076)
