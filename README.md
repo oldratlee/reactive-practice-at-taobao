@@ -27,6 +27,7 @@
     - [2. `ReactiveX`(`Rx`)/`RxJava`](#2-reactivexrxrxjava)
     - [3. `Reactive Streams`(`RS`)](#3-reactive-streamsrs)
 - [Reactive Streams介绍](#reactive-streams%E4%BB%8B%E7%BB%8D)
+- [在软件大会上自己做的主题分享](#%E5%9C%A8%E8%BD%AF%E4%BB%B6%E5%A4%A7%E4%BC%9A%E4%B8%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E7%9A%84%E4%B8%BB%E9%A2%98%E5%88%86%E4%BA%AB)
 - [相关资料](#%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -160,25 +161,27 @@
 
 ![Reactive Stream的时序图](asserts/rs-sequence-diagram.png)[.](asserts/reactive-stream-n-flow-design.asta)
 
+# 在软件大会上自己做的主题分享
+
+- QCon2018北京 分享 @ 2018-4-21：
+    - [Reactive架构升级实践 —— 淘宝全站业务的全异步流式架构升级](https://2018.qconbeijing.com/presentation/462)
+    - [PPT的`PDF`文件](Reactive架构升级实践-李鼎-20180421-QCon北京.pdf)
+- 2018携程技术峰会 分享 @ 2018-11-23：
+    - [Reactive架构升级实践 —— 淘宝全站业务的全异步流式架构升级](https://techsummit.ctrip.com/2018/index.html)
+    - [PPT的`PDF`文件](淘宝应用架构升级-20181123-携程技术峰会.pdf)
+    - 进一步包含2018双11的进展
+- 2019 TOP100全球软件案例研究峰会 分享 @ 2019-11-16：  
+    - [面向流量的自适应高可用架构 —— 淘宝应用架构升级实践](https://www.top100summit.com/detail?id=14331)
+    - [PPT的`PDF`文件](面向流量的自适应高可用架构-淘宝应用架构升级实践-李鼎-20191116-Top100.pdf)
+    - 对应于`Reactive`架构/系统设计中的`Responsive to workload/Elastic`，或者说成上面我表达成的『面向流量/负载』的高可用 :)
+    - 分享过去一年多的思考、实现 与 2019双11实践落地及其收益效果。
+    - 高可用(HA) 不单是 **应对资源失效的高可用**，还有 **面向流量的高可用**。  
+        在今天对于应用架构来说，后者更是痛点，但业界的关注、思路、实践要落后很多。
+    - 让我们一起更多地关注 **面向流量的高可用**！大家和业界能更多正面思考与解决这只房间里的大象：  
+        流量不确定性带来的稳定性问题！
+
 # 相关资料
 
-- 在软件大会上自己做的主题分享
-    - QCon2018北京 分享 @ 2018-4-21：
-        - [Reactive架构升级实践 —— 淘宝全站业务的全异步流式架构升级](https://2018.qconbeijing.com/presentation/462)
-        - [PPT的`PDF`文件](Reactive架构升级实践-李鼎-20180421-QCon北京.pdf)
-    - 2018携程技术峰会 分享 @ 2018-11-23：
-        - [Reactive架构升级实践 —— 淘宝全站业务的全异步流式架构升级](https://techsummit.ctrip.com/2018/index.html)
-        - [PPT的`PDF`文件](淘宝应用架构升级-20181123-携程技术峰会.pdf)
-        - 进一步包含2018双11的进展
-    - 2019 TOP100全球软件案例研究峰会 分享 @ 2019-11-16：  
-        - [面向流量的自适应高可用架构 —— 淘宝应用架构升级实践](https://www.top100summit.com/detail?id=14331)
-        - [PPT的`PDF`文件](面向流量的自适应高可用架构-淘宝应用架构升级实践-李鼎-20191116-Top100.pdf)
-        - 对应于`Reactive`架构/系统设计中的`Responsive to workload/Elastic`，或者说成上面我表达成的『面向流量/负载』的高可用 :)
-        - 分享过去一年多的思考、实现 与 2019双11实践落地及其收益效果。
-        - 高可用(HA) 不单是 **应对资源失效的高可用**，还有 **面向流量的高可用**。  
-          在今天对于应用架构来说，后者更是痛点，但业界的关注、思路、实践要落后很多。
-        - 让我们一起更多地关注 **面向流量的高可用**！大家和业界能更多正面思考与解决这只屋子里的大象：  
-          流量不确定性带来的稳定性问题！
 - Reactive Programming
     - [Reactive Programming with JDK 9 Flow API - oracle.com](https://community.oracle.com/docs/DOC-1006738)
     - [Your Mouse is a Database - acm.org](https://queue.acm.org/detail.cfm?id=2169076)
