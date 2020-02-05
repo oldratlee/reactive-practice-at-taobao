@@ -33,6 +33,8 @@
 
 ----------------------------------------------------
 
+<img src="asserts/reactive.png" vspace="10px" hspace="10px" align="right" width="25%" >
+
 # 什么是 `Reactive`/反应式
 
 `Reactive`说明了
