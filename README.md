@@ -1,5 +1,10 @@
 # `Flow Arch`(流式架构)/`Reactive Programming`(`RP`/反应式编程) Practice
 
+[![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg) ![Attribution-NonCommercial-ShareAlike CC BY-NC-SA](asserts/LICENSE.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)  
+[![GitHub stars](https://img.shields.io/github/stars/oldratlee/reactive-practice-at-taobao.svg?style=social&label=Star)](https://github.com/oldratlee/reactive-practice-at-taobao/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/oldratlee/reactive-practice-at-taobao.svg?style=social&label=Fork)](https://github.com/oldratlee/reactive-practice-at-taobao/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/oldratlee/reactive-practice-at-taobao.svg?style=social&label=Watch)](https://github.com/oldratlee/reactive-practice-at-taobao/watchers)
+
 <img src="asserts/LaLaLoveOnMyMind-AnnWinsborn.jpg" align="right" width="30%" />
 
 > One way ticket and of life to live, pockets full of sunshine, lots of love to give. -- [La La Love On My Mind, Ann Winsborn](http://www.xiami.com/song/mQ37ro8c0de)  
