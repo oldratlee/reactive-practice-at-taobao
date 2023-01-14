@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/oldratlee/reactive-practice-at-taobao.svg?style=social&label=Fork)](https://github.com/oldratlee/reactive-practice-at-taobao/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/oldratlee/reactive-practice-at-taobao.svg?style=social&label=Watch)](https://github.com/oldratlee/reactive-practice-at-taobao/watchers)
 
-<img src="asserts/LaLaLoveOnMyMind-AnnWinsborn.jpg" align="right" width="30%" />
+<a href="##"><img src="asserts/LaLaLoveOnMyMind-AnnWinsborn.jpg" align="right" width="20%" /></a>
 
 > One way ticket and of life to live, pockets full of sunshine, lots of love to give. -- [La La Love On My Mind, Ann Winsborn](http://www.xiami.com/song/mQ37ro8c0de)  
 > 体验生命的单程票，装满阳光口袋可以给你许许多多的爱。 —— [La La Love On My Mind, Ann Winsborn](http://www.xiami.com/song/mQ37ro8c0de)
@@ -39,7 +39,7 @@
 
 ----------------------------------------------------
 
-<img src="asserts/reactive.png" vspace="10px" hspace="10px" align="right" width="25%" >
+<a href="##"><img src="asserts/reactive.png" vspace="10px" hspace="10px" align="right" width="25%" ></a>
 
 # 什么是 `Reactive`/反应式
 
@@ -54,11 +54,11 @@
 - [响应式宣言](https://www.reactivemanifesto.org/zh-CN)
 - 中文翻译得有些别扭，可以对照着英文原版看：[**_The Reactive Manifesto_**](https://www.reactivemanifesto.org/)。
 
-![](asserts/model-reactive-manifesto.png)
+[![](asserts/model-reactive-manifesto.png)](##)
 
 # 准备/学习/了解的资料/书籍
 
-<img src="asserts/java8.jpeg" height="150" align="right" />
+<a href="##"><img src="asserts/java8.jpeg" height="150" align="right" /></a>
 
 全异步化/流式架构 需要 捕捉操作并编排运行（延迟执行）。
 
@@ -70,7 +70,7 @@
 
 ## `Java 8`
 
-<img src="asserts/java8-books.jpg" height="150" align="right" />
+<a href="##"><img src="asserts/java8-books.jpg" height="150" align="right" /></a>
 
 - [《Java 8实战》](https://book.douban.com/subject/26772632/)：面向Java 8的技能升级，包括Lambdas、流和函数式编程特性。
     - 实战系列的一贯风格让自己快速上手应用起来。
@@ -83,7 +83,7 @@
 
 ## `RxJava`
 
-<img src="asserts/book-LearningRxjava.jpeg" height="150" align="right" />
+<a href="##"><img src="asserts/book-LearningRxjava.jpeg" height="150" align="right" /></a>
 
 - [《Learning RxJava: Reactive Programming with Java and ReactiveX》](https://book.douban.com/subject/27094562/) 英文版 2017年6月出版
     - `RxJava 2`，循序渐进地介绍了使用和整体思路，推荐！
@@ -95,7 +95,7 @@
 
 ## 函数式编程
 
-<img src="asserts/book-FunctionalThinking.jpg" height="150" align="right" />
+<a href="##"><img src="asserts/book-FunctionalThinking.jpg" height="150" align="right" /></a>
 
 - [《函数式编程思维》](https://book.douban.com/subject/26587213/)：科普读物。
 - [《Java函数式编程》](https://book.douban.com/subject/27594722/)：讲的主题是函数式编程，用Java语言描述。
@@ -108,7 +108,7 @@
 
 # 有哪些相关的类/库
 
-<img src="asserts/Java-8-Streams.png" align="right" width="30%" />
+<a href="##"><img src="asserts/Java-8-Streams.png" align="right" width="30%" /></a>
 
 这里列的是比较广泛的相关。使用方式和思考方式是互通的，大家去学习和理解。
 
@@ -121,7 +121,7 @@
 
 ## 2. `ReactiveX`(`Rx`)/`RxJava`
 
-<img src="asserts/rx.png" align="right" width="25%" />
+<a href="##"><img src="asserts/rx.png" align="right" width="25%" /></a>
 
 `ReactiveX`（`Rx`）是 `Reactive eXtension`（`Reactive`扩展）的缩写。
 
@@ -162,9 +162,9 @@
 
 # Reactive Streams介绍
 
-![Reactive Stream的核心概念及其关系](asserts/rs-class-diagram.png)[.](asserts/reactive-stream-n-flow-design.asta)
+<a href="##"><img src="asserts/rs-class-diagram.png" width="95%" alt="Reactive Stream的核心概念及其关系" /></a> [.](asserts/reactive-stream-n-flow-design.asta)
 
-![Reactive Stream的时序图](asserts/rs-sequence-diagram.png)[.](asserts/reactive-stream-n-flow-design.asta)
+<a href="##"><img src="asserts/rs-sequence-diagram.png" width="95%" alt="Reactive Stream的时序图" /></a> [.](asserts/reactive-stream-n-flow-design.asta)
 
 # 在软件大会上自己做的主题分享
 
