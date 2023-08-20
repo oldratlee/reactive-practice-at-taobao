@@ -1,11 +1,12 @@
 # ♨️ `Flow Arch`(流式架构)/`Reactive Programming`(`RP`/反应式编程) Practice
 
-[![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-FE6B3A.svg?logo=apache) ![Licence: CC BY-NC-SA 4.0](asserts/LICENSE.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)  
+[![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-FE6B3A.svg?logo=apache)
+![Licence: CC BY-NC-SA 4.0](https://github.com/oldratlee/reactive-practice-at-taobao/assets/1063891/b3ae3cf2-7ea3-483b-b374-499c7d78afda)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)  
 [![GitHub stars](https://img.shields.io/github/stars/oldratlee/reactive-practice-at-taobao.svg?style=social&label=Star)](https://github.com/oldratlee/reactive-practice-at-taobao/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/oldratlee/reactive-practice-at-taobao.svg?style=social&label=Fork)](https://github.com/oldratlee/reactive-practice-at-taobao/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/oldratlee/reactive-practice-at-taobao.svg?style=social&label=Watch)](https://github.com/oldratlee/reactive-practice-at-taobao/watchers)
 
-<a href="##"><img src="asserts/LaLaLoveOnMyMind-AnnWinsborn.jpg" align="right" width="20%" /></a>
+<a href="##"><img src="https://github.com/oldratlee/reactive-practice-at-taobao/assets/1063891/94cd17cf-5d25-42b6-bc44-4e2c56ffc1fd" alt="LaLaLoveOnMyMind-AnnWinsborn.jpg" align="right" width="20%" /></a>
 
 > One way ticket and of life to live, pockets full of sunshine, lots of love to give. -- [La La Love On My Mind, Ann Winsborn](http://www.xiami.com/song/mQ37ro8c0de)  
 > 体验生命的单程票，装满阳光口袋可以给你许许多多的爱。 —— [La La Love On My Mind, Ann Winsborn](http://www.xiami.com/song/mQ37ro8c0de)
@@ -39,7 +40,7 @@
 
 ----------------------------------------------------
 
-<a href="##"><img src="asserts/reactive.png" vspace="10px" hspace="10px" align="right" width="25%" ></a>
+<a href="##"><img src="https://github.com/oldratlee/reactive-practice-at-taobao/assets/1063891/619eed0b-3950-4b8c-9a2c-cf8f756cbb30" alt="reactive-red.png" vspace="10px" hspace="10px" align="right" width="20%" ></a>
 
 # 什么是 `Reactive`/反应式
 
@@ -51,10 +52,10 @@
 
 即也是`Reactive`本身的定义。具体参见：
 
-- [响应式宣言](https://www.reactivemanifesto.org/zh-CN)
-- 中文翻译得有些别扭，可以对照着英文原版看：[**_The Reactive Manifesto_**](https://www.reactivemanifesto.org/)。
+- [反应式宣言](https://www.reactivemanifesto.org/zh-CN)
+- 如果中文翻译看有些别扭的话，可以对照着看英文原版：[**_The Reactive Manifesto_**](https://www.reactivemanifesto.org/)。
 
-[![](asserts/model-reactive-manifesto.png)](##)
+[![model-reactive-manifesto](https://github.com/oldratlee/reactive-practice-at-taobao/assets/1063891/7c60d55c-503c-4c9f-95e2-ee8fac73e9ca)](##)
 
 # 准备/学习/了解的资料/书籍
 
@@ -108,7 +109,7 @@
 
 # 有哪些相关的类/库
 
-<a href="##"><img src="asserts/Java-8-Streams.png" align="right" width="30%" /></a>
+<a href="##"><img src="asserts/Java-8-Streams.png" align="right" width="20%" /></a>
 
 这里列的是比较广泛的相关。使用方式和思考方式是互通的，大家去学习和理解。
 
@@ -121,7 +122,7 @@
 
 ## 2. `ReactiveX`(`Rx`)/`RxJava`
 
-<a href="##"><img src="asserts/rx.png" align="right" width="25%" /></a>
+<a href="##"><img src="asserts/rx.png" align="right" width="20%" /></a>
 
 `ReactiveX`（`Rx`）是 `Reactive eXtension`（`Reactive`扩展）的缩写。
 
